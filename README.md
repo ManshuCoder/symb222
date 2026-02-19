@@ -195,3 +195,4 @@ You can modify `src/seed/seedRooms.js` to adjust or add sample rooms.
 Ensure CORS `CLIENT_ORIGIN` on the backend matches your deployed frontend URL.
 
 
+Thank you
