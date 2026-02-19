@@ -1,6 +1,6 @@
 {
-  "name": "smart-hostel-room-allocation-backend",
-  "version": "1.0.0",
+  "name": "smart-hostel-room-allocation-backend" ,
+  "version": "1.0.0" ,
   "description": "Backend for Smart Hostel Room Allocation System",
   "main": "src/server.js",
   "type": "module",
